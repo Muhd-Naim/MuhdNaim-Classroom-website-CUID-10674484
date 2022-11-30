@@ -142,7 +142,8 @@
 .content h1
 {
     font-size: 50px;
-    margin-top: 80px;
+    
+    text-align: center;
 }
 .content p
 {

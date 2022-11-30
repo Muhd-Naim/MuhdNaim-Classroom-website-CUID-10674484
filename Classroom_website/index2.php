@@ -15,6 +15,7 @@ require("connection.php");
                     <li><a href="schedule.php">Schedule</a></li>
                     <li><a href="questions.php">Questions</a></li>
                     <li><a href="review.php">Reviews</a></li>
+                    <li><a href="Learning.php">Learning Video</a></li>
                     <li><a href="index.php">Logout</a></li>
                 </ul>
             </div>
@@ -46,6 +47,7 @@ require("connection.php");
     background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(Study.jpg);
     background-size: cover;
     background-position: center;
+    
 }
 .navbar
 {

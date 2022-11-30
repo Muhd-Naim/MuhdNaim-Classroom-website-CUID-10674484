@@ -12,13 +12,15 @@
                     <li><a href="schedule.php">Schedule</a></li>
                     <li><a href="questions.php">Questions</a></li>
                     <li><a href="review.php">Reviews</a></li>
+                    <li><a href="Learning.php">Learning Video</a></li>
                     <li><a href="index.php">Logout</a></li>
+                    
                 </ul>
             </div>
              <div class="container">
                 <h1>Tutorial</h1>
                 <ol>
-                    <h2>How to Register</h2>
+                    <h2 class="Title">How to Register</h2> 
                     <li>Click on <a href="register.php">register</a> button if you haven't register</li>
                     <img src="registerbutton.jpg" width="1100" height="500">
                     <li>Fill up all the requirement</li>
@@ -208,6 +210,11 @@ span
 {
     line-height: 3; 
     font-size: 24px;
+}
+
+.container h2
+{
+    text-align: center;
 }
     </style>
 </html>

@@ -175,6 +175,7 @@ span.posted-by {
             <li><a href="schedule.php">Schedule</a></li>
             <li><a href="questions.php">Questions</a></li>
             <li><a href="review.php">Reviews</a></li>
+            <li><a href="Learning.php">Learning Video</a></li>
             <li><a href="index.php">Logout</a></li>
         </ul>
     </div>
